@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "b401a012-b07c-4b20-aa1e-05420c295ec1",
+      "author": "Soel",
+      "title": "Car Trip",
+      "image": "https://i.pinimg.com/564x/3b/33/49/3b3349fa71d4903193c75f1221620191.jpg",
+      "date": "2024-06-04",
+      "type": "audi",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!"
+    },
+    {
+      "id": "3",
+      "author": "Nick",
+      "title": "Rainy Day",
+      "image": "https://i.pinimg.com/736x/41/91/32/419132ba0957c02818f58bd4aa3969ab.jpg",
+      "date": "2024-06-04",
+      "type": "audi",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!"
+    },
+    {
+      "id": "fb826d0b-0fa4-4658-af13-9c7189a7f529",
+      "author": "John",
+      "title": "Grass and Sky",
+      "image": "https://i.pinimg.com/564x/6e/f7/8b/6ef78b7cd9a39f7160734397487dcad3.jpg",
+      "date": "2024-06-08",
+      "type": "Nature",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!"
+    },
+    {
+      "id": "ff7a6096-d655-4344-9c63-dc6b1571e1da",
+      "author": "Smith",
+      "title": "Wooden House",
+      "image": "https://i.pinimg.com/736x/56/d6/df/56d6df45ae3b12b895e11cea27f98d62.jpg",
+      "date": "2024-06-04",
+      "type": "Nature",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!"
+    },
+    {
+      "id": "1",
+      "author": "Soel",
+      "title": "A New Journey",
+      "image": "https://i.pinimg.com/originals/60/63/da/6063da107454d50c1d7786cc2c2bac75.jpg",
+      "date": "2024-06-02",
+      "type": "Nature",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!"
+    },
+    {
+      "id": "2",
+      "author": "Nick",
+      "title": "Window",
+      "image": "https://i.pinimg.com/736x/a9/db/f0/a9dbf09cb65453bed88c26c3a0f3fd22.jpg",
+      "date": "2024-06-02",
+      "type": "Nature",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sequi voluptate quod ex? Rem officia autem vitae dolorum repudiandae distinctio omnis, alias aperiam voluptate? Laudantium odit vero nam aliquam ipsum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quis porro et, eos labore pariatur odio nostrum aliquid autem totam magni natus voluptates, quo quaerat doloremque facere eligendi voluptate eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, voluptates quae doloribus maxime minus assumenda! Laborum, repudiandae, fuga delectus officiis officia, provident facilis quia unde cumque perspiciatis illum molestiae! Optio!"
+    }
+  ]
+}
