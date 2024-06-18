@@ -1,9 +1,21 @@
 import { Form, redirect } from "react-router-dom";
 import { v4 as uuidv4 } from 'uuid';
+import ReactQuill from "react-quill"
+import 'react-quill/dist/quill.snow.css'
 const PostForm = () => {
+  const modules = {
+    toolbar:[
+      [{'header':[1,2,3,4,5,false]}],
+      ['bold','italic','underline','strike','blockquote'],
+      [{'list':'ordered'},{'list':'bullet'},{'indent':'-1'},{'indent':'+1'}],
+      ['link','image'],
+      ['clean']
+    ],
+  }
+  const formats = ['header','bold','italic','underline','strike','blockquote','list','bullet','indent','link','image']
   return (
     <>
-      <section>
+      <section className="form-section">
         <Form method="post">
           <div className="form-input">
             <label htmlFor="form-author">Author</label>
@@ -24,13 +36,8 @@ const PostForm = () => {
             <input type="date" id="from-date" name="date" required />
           </div>
           <div className="form-input">
-            <label htmlFor="form-type">Type</label>
-            <select id="type" name="type">
-              <option value="volvo">Volvo</option>
-              <option value="saab">Saab</option>
-              <option value="fiat">Fiat</option>
-              <option value="audi">Audi</option>
-            </select>
+            <label htmlFor="form-type">Category</label>
+            <input type="text" id="from-type" name="type" required />
           </div>
           <div className="form-input">
             <label htmlFor="form-description">Description</label>
@@ -42,6 +49,7 @@ const PostForm = () => {
               required
             ></textarea>
           </div>
+          
           <button>Publish</button>
         </Form>
       </section>

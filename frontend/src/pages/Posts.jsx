@@ -13,7 +13,7 @@ const Posts = () => {
               </section>
           ))}
       
-    </section>
+    </section> 
   );
 };
 

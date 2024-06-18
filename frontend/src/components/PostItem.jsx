@@ -35,7 +35,7 @@ const PostItem = ({ post }) => {
         </div>
         <br />
       </section>
-    </>
+    </> 
   );
 };
 
